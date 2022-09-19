@@ -21,6 +21,7 @@
 - 라이브러리 : Requests, BeautifulSoup(크롤링)
 
 - 개발 기간 : 2022.08.29 ~
+  <img src="https://user-images.githubusercontent.com/101936519/191011347-bd603894-d158-41e4-909e-dc7390f7ec95.jpg" alt="일정표">
 
 - 개발팀 : BBOAAA(뽀아)
 
