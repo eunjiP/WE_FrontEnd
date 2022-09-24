@@ -2,7 +2,7 @@
 
 프로젝트명 : 행복하지구(With Earth)
 =====
-<img src="" width=200px>
+<img src="https://user-images.githubusercontent.com/101936519/192085781-f11281c4-80d8-452a-bd84-86503f8e816b.png" width=200px>
 
 주제
 ------
@@ -16,7 +16,7 @@
 
 - 스토리보드 : [:link:Figma 주소](https://www.figma.com/file/EndW5C53SPgRKAwudN9jcd/recycle?node-id=0%3A1)
 
-- DB 설계 tool : ERD Cloud [:link:ERD Cloud 주소]()
+- DB 설계 tool : ERD Cloud [:link:ERD Cloud 주소](https://www.erdcloud.com/d/Lduwfbse2KfebC3As)
 
 - 라이브러리 : Requests, BeautifulSoup(크롤링)
 
